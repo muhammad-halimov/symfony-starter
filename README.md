@@ -1,4 +1,4 @@
-# WPF To-Do Application
+# Symfony simple CRUD app
 
 Simple Symfony CRUD app with API and Admin panel.
 - App is Dockerized
