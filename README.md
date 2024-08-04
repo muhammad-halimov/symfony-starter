@@ -6,6 +6,7 @@ Simple Symfony CRUD app with API and Admin panel.
 ## Features
 
 - POST/GET/PATCH/DELETE
+- Admin panel
 
 ## Installation
 
